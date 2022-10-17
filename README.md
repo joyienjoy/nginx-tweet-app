@@ -5,6 +5,8 @@ OBJECTIVE:
 Write a full color HTML page
 Add a Link that redirects to a different page
 
+DockerHub Image Link: https://hub.docker.com/repository/docker/joydeep2022/nginx_tweet_app
+
 
 On running the application, the Output is obtained through NGINX server at IP:80
 
